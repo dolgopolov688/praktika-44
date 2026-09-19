@@ -211,6 +211,8 @@ img {
   height: 0;
   width: 95%;
   background: url("https://raw.githubusercontent.com/dolgopolov688/praktika-44/refs/heads/main/overlay.png");
+  background-size: cover;
+  background-position: center;
   left: 0;
   top: 0;
   transition: .5s ease-in;
@@ -218,7 +220,7 @@ img {
 }
 
 .reveal {
-  height: 700px !important;
+  height: 80vh !important;
 }
 
 #nav-container {
