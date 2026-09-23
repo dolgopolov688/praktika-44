@@ -105,7 +105,7 @@ img {
   width: 121px;
   position: absolute;
   left: 50%;
-  top: 350%;
+  top: 250%;
   transform: translate(-50%, 50%);
   transition: .3s ease-in-out;
 }
@@ -210,7 +210,7 @@ img {
   position: absolute;
   height: 0;
   width: 95%;
-  background: url("https://raw.githubusercontent.com/dolgopolov688/praktika-44/refs/heads/main/ddddd.png");
+  background: url("https://raw.githubusercontent.com/dolgopolov688/praktika-44/refs/heads/main/glav%20(1).jpg");
   left: 0;
   top: 0;
   transition: .5s ease-in;
@@ -255,7 +255,7 @@ img {
 }
 
 .first-character {
-  color: #62B0CC;
+  color: #d674bf;
   float: left;
   font-size: 84px;
   line-height: 64px;
